@@ -1,6 +1,7 @@
 # 🎯 VurduGololdu API
 
 **VurduGololdu** - Tahmin ve analiz platformu API'si
+Frontend Url: "https://github.com/SerhatCelebi/PredicAnalysisSite.Frontend"
 
 ## 📋 İçindekiler
 
